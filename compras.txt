@@ -1,0 +1,3 @@
+Produto: Notebook, Quantidade: 2, Preço unitário: 4500.0
+Produto: Mouse, Quantidade: 2, Preço unitário: 75.0
+Produto: Teclado, Quantidade: 2, Preço unitário: 150.0
